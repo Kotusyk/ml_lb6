@@ -1,0 +1,263 @@
+﻿Countries,Local,Industry Sector,Accident Level,Potential Accident Level,Employee or Third Party,Critical Risk,The number of victims,The number of dead
+Ukraine,Donetsk city,House,1,1,The third party,Social,4,4
+Ukraine,Volyn,House,1,1,The third party,Social,13,0
+Ukraine,Kharkiv,Storage,1,2,"Employee, third party",Man-made,0,0
+Ukraine,"Chortkiv, Ternopil region",House,1,1,The third party,Social,28,27
+Ukraine,Zaporozhye,House,1,1,The third party,Social,3,1
+Ukraine,Luhansk Region,Village,1,2,The third party,Ecological,0,0
+Ukraine,Donetsk city,Mine,1,1,The third party,Man-made,95,0
+Ukraine,"Makiivka, Donetsk region",Market,1,1,The third party,Social,22,2
+Ukraine,Transcarpathia,Population centers,2,2,The third party,Man-made,0,0
+Ukraine,m. Kyiv,Market,1,1,The third party,Social,11,11
+Ukraine,highway Kyiv-Odesa,Trunk,1,1,The third party,Social,10,10
+Ukraine,"Khartsyzk, Donetsk region.",Railway,2,2,The third party,Social,23,3
+Ukraine,Kharkiv city,Market,1,1,The third party,Social,6,6
+Ukraine,Khmelnytskyi,Enterprise,1,2,The third party,Social,3,3
+Ukraine,Mykolaiv,Storage,1,1,The third party,Social,6,6
+Ukraine,Donetsk city,House,1,1,The third party,Social,2000,23
+Ukraine,Volyn,House,1,1,The third party,Social,20,20
+Ukraine,Kharkiv,Storage,1,2,"Employee, third party",Man-made,23,23
+Ukraine,"Chortkiv, Ternopil region",House,2,2,The third party,Social,40,3
+Ukraine,Zaporozhye,House,2,2,The third party,Social,0,0
+Ukraine,Luhansk Region,Village,2,2,The third party,Ecological,27,0
+Ukraine,Donetsk city,Mine,1,1,The third party,Man-made,9,2
+Ukraine,"Makiivka, Donetsk region",Market,1,1,The third party,Social,11,11
+Ukraine,Transcarpathia,Population centers,2,2,The third party,Man-made,6,1
+Ukraine,m. Kyiv,Market,2,2,The third party,Social,0,0
+Ukraine,highway Kyiv-Odesa,Trunk,1,2,The third party,Social,20,11
+Ukraine,"Khartsyzk, Donetsk region.",Railway,1,1,The third party,Social,15,8
+Ukraine,Kharkiv city,Market,1,1,The third party,Social,6,4
+Ukraine,Khmelnytskyi,Enterprise,2,2,The third party,Social,0,0
+Ukraine,Mykolaiv,Storage,1,1,The third party,Social,1,0
+Ukraine,Donetsk city,House,3,3,The third party,Social,200,48
+Ukraine,Volyn,House,1,2,The third party,Social,200,8
+Ukraine,Kharkiv,Storage,3,3,"Employee, third party",Man-made,298,298
+Ukraine,"Chortkiv, Ternopil region",House,1,1,The third party,Social,350,77
+Ukraine,Zaporozhye,House,1,2,The third party,Social,1,0
+Ukraine,Luhansk Region,Village,1,1,The third party,Ecological,11,8
+Ukraine,Donetsk city,Mine,1,1,The third party,Man-made,500,100
+Ukraine,"Makiivka, Donetsk region",Market,1,1,The third party,Social,10,8
+Ukraine,Transcarpathia,Population centers,1,1,The third party,Man-made,6,6
+Ukraine,m. Kyiv,Market,1,1,The third party,Social,6,1
+Ukraine,highway Kyiv-Odesa,Trunk,1,1,The third party,Social,500,0
+Ukraine,"Khartsyzk, Donetsk region.",Railway,1,1,The third party,Social,2,2
+Ukraine,Kharkiv city,Market,1,1,The third party,Social,20,8
+Ukraine,Khmelnytskyi,Enterprise,1,1,The third party,Ecological,505,5
+Ukraine,Mykolaiv,Storage,1,1,The third party,Social,20,48
+Ukraine,Donetsk city,House,3,4,The third party,Social,10,10
+Ukraine,Volyn,House,1,1,The third party,Social,5,0
+Ukraine,Kharkiv,Storage,3,4,"Employee, third party",Man-made,0,1
+Ukraine,"Chortkiv, Ternopil region",House,2,2,The third party,Social,1,0
+Ukraine,Zaporozhye,House,3,3,The third party,Social,3,0
+Ukraine,Luhansk Region,Village,1,2,The third party,Ecological,5,1
+Ukraine,Donetsk city,Mine,2,3,The third party,Man-made,2,0
+Ukraine,"Makiivka, Donetsk region",Market,2,3,The third party,Social,56,9
+Ukraine,Transcarpathia,Population centers,2,2,The third party,Man-made,3,0
+Ukraine,m. Kyiv,Market,2,2,The third party,Social,2,2
+Ukraine,highway Kyiv-Odesa,Trunk,3,3,The third party,Ecological,3,1
+Ukraine,"Khartsyzk, Donetsk region.",Railway,1,1,The third party,Social,1,1
+Ukraine,Kharkiv city,Market,1,1,The third party,Social,3,0
+Ukraine,Khmelnytskyi,Enterprise,3,3,The third party,Social,10,0
+Ukraine,Mykolaiv,Storage,1,2,The third party,Social,1,1
+Ukraine,Donetsk city,House,3,3,The third party,Social,2,2
+Ukraine,Volyn,House,2,2,The third party,Social,1,1
+Ukraine,Kharkiv,Storage,1,1,The third party,Man-made,1,1
+Ukraine,"Chortkiv, Ternopil region",House,3,3,The third party,Social,3,4
+Ukraine,Zaporozhye,House,1,1,The third party,Social,20,27
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,3,0
+,,,,,,,2,1
+,,,,,,,10,2
+,,,,,,,3,3
+,,,,,,,61,0
+,,,,,,,52,5
+,,,,,,,3,0
+,,,,,,,1,0
+,,,,,,,10,1
+,,,,,,,3,2
+,,,,,,,20000,17
+,,,,,,,50,4
+,,,,,,,10000,0
+,,,,,,,30,8
+,,,,,,,3000,0
+,,,,,,,500,6
+,,,,,,,250,8
+,,,,,,,5,3
+,,,,,,,3500,3
+,,,,,,,3,0
+,,,,,,,100,9
+,,,,,,,12,2
+,,,,,,,50,8
+,,,,,,,80,27
+,,,,,,,3,1
+,,,,,,,1500,0
+,,,,,,,10,1
+,,,,,,,100,12
+,,,,,,,5,5
+,,,,,,,60,8
+,,,,,,,22,9
+,,,,,,,10,6
+,,,,,,,20,0
+,,,,,,,15,5
+,,,,,,,3,0
+,,,,,,,50,13
+,,,,,,,23,0
+,,,,,,,36,20
+,,,,,,,41,21
+,,,,,,,30,1
+,,,,,,,120,70
+,,,,,,,55,20
+,,,,,,,155,0
+,,,,,,,0,0
+,,,,,,,437,320
+,,,,,,,58,8
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,22,2
+,,,,,,,5,2
+,,,,,,,20000,1
+,,,,,,,50,0
+,,,,,,,10000,2
+,,,,,,,20,5
+,,,,,,,12,1
+,,,,,,,50,8
+,,,,,,,10,2
+,,,,,,,15,9
+,,,,,,,14,4
+,,,,,,,6,5
+,,,,,,,200,4
+,,,,,,,20000,0
+,,,,,,,17,6
+,,,,,,,8,6
+,,,,,,,220,5
+,,,,,,,19,8
+,,,,,,,5,0
+,,,,,,,10,1
+,,,,,,,29,5
+,,,,,,,500,0
+,,,,,,,7,4
+,,,,,,,212,2
+,,,,,,,157,13
+,,,,,,,5,2
+,,,,,,,50,3
+,,,,,,,27,0
+,,,,,,,2000,5
+,,,,,,,3000,0
+,,,,,,,4,4
+,,,,,,,6,2
+,,,,,,,0,0
+,,,,,,,2,1
+,,,,,,,4,4
+,,,,,,,0,0
+,,,,,,,1,0
+,,,,,,,0,0
+,,,,,,,2,2
+,,,,,,,1,18
+,,,,,,,5,5
+,,,,,,,1,0
+,,,,,,,0,0
+,,,,,,,0,0
+,,,,,,,0,0
+,,,,,,,2,2
+,,,,,,,0,0
+,,,,,,,2,0
+,,,,,,,1,0
+,,,,,,,0,0
+,,,,,,,300,0
+,,,,,,,1,1
+,,,,,,,3,3
+,,,,,,,1500,0
+,,,,,,,4,3
+,,,,,,,250,0
+,,,,,,,980,0
+,,,,,,,10,8
+,,,,,,,2000,0
+,,,,,,,2,1
